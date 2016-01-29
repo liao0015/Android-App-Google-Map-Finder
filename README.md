@@ -1,4 +1,4 @@
 # Android-App-Google-Map-Finder
 
-Incorporating google map feature into android app
-Double click to zoom in
+1. Incorporating google map feature into android app.
+2. Double click to zoom in.
